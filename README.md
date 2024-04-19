@@ -20,6 +20,8 @@ The connection via PWM was the first one. The wiring diagram is shown below:
 
 Flight: [video](https://www.youtube.com/watch?v=bF6pm1bQ9Ks) | [log](https://review.px4.io/plot_app?log=15b0ad61-4d66-4981-8859-f853cad3dc1c)
 
+Flight: [log](https://review.px4.io/plot_app?log=9a09421f-5872-44e7-a61a-f9717f8e9e5b)
+
 ### DroneCAN
 Diagram:
 
