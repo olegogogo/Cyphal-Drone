@@ -14,3 +14,33 @@ Replacing the control signal with a CAN bus will increase the stability of the s
 
 ### PWM
 
+The connection via PWM was the first one. The wiring diagram is shown below:
+
+![PWMsheme](assets/PWMMOTOR.png)
+
+Flight: [video](https://www.youtube.com/watch?v=bF6pm1bQ9Ks) | [log](https://review.px4.io/plot_app?log=15b0ad61-4d66-4981-8859-f853cad3dc1c)
+
+### DroneCAN
+Diagram:
+
+![CANsheme](assets/CANPWMMOTOR.png)
+
+Flight: [video](https://youtu.be/0hR0CX1QG-s) | [log](https://review.px4.io/plot_app?log=4a3cf87a-0712-4381-9e35-fb9721ceb05d)
+
+Flight: [video](https://youtu.be/-_-Hau36b2o?si=XCnLyRr9R_jYNAQt) | [log](https://review.px4.io/plot_app?log=1a95ffb9-f365-4d48-9dae-9e10be2324c9)
+
+Flight: [video](https://youtu.be/I_uR951W_0I) | [log](https://review.px4.io/plot_app?log=267315de-17ea-458a-a083-d736de84dffb)
+
+### Cyphal on PWM Node v2
+Diagram:
+
+![CANsheme](assets/CANPWMMOTOR.png)
+
+Flight: [video](https://youtu.be/DMQ_uFp9GC8) | [log](https://review.px4.io/plot_app?log=50bcc929-d9f1-4c23-8f3b-0aff1351e8ce)
+
+### Cyphal on Myxa
+Diagram:
+
+![CANsheme](assets/CANMOTOR.png)
+
+**work in progress**
