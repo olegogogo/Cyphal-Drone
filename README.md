@@ -34,7 +34,7 @@ Flight: [video](https://youtu.be/-_-Hau36b2o?si=XCnLyRr9R_jYNAQt) | [log](https:
 Flight: [video](https://youtu.be/I_uR951W_0I) | [log](https://review.px4.io/plot_app?log=267315de-17ea-458a-a083-d736de84dffb)
 
 ### Cyphal on PWM Node v2
-Diagram:
+Diagram is the same:
 
 ![CANsheme](assets/CANPWMMOTOR.png)
 
