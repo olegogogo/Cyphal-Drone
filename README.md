@@ -42,6 +42,8 @@ Flight: [video](https://youtu.be/DMQ_uFp9GC8) | [log](https://review.px4.io/plot
 
 Flight: [video](https://youtu.be/HDFo5cQEWIE) | [log](https://review.px4.io/plot_app?log=9430bbb8-d338-49f2-aeb1-94bf418a2b03)
 
+Flight: [video](https://youtu.be/5DsmymIM6T4) | [log](https://review.px4.io/plot_app?log=e5a8ef8b-2a77-4e41-ab36-2fea505b1bb5)
+
 ### Cyphal on Myxa
 Diagram:
 
