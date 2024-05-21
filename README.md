@@ -44,7 +44,9 @@ Flight: [video](https://youtu.be/HDFo5cQEWIE) | [log](https://review.px4.io/plot
 
 Flight: [video](https://youtu.be/5DsmymIM6T4) | [log](https://review.px4.io/plot_app?log=e5a8ef8b-2a77-4e41-ab36-2fea505b1bb5)
 
-### Cyphal on Myxa
+
+
+### Cyphal on Myxa (work in progress)
 Diagram:
 
 ![CANsheme](assets/CANMOTOR.png)
