@@ -18,7 +18,7 @@ Render of a quadcopter:
 
 ![renderQuadcopter](https://github.com/olegogogo/Cyphal-Drone/assets/45263316/24a4b8bc-7d8c-483f-a6e9-f7a338418e70)
 
-Sensors: 
+### Sensors: 
 
 In addition to ESC Node, [MUX](https://raccoonlab.co/tproduct/360882105-264880131491-can-mux), [ESC Current sensor](https://raccoonlab.co/tproduct/390642159-585609994241-bec-and-current-sensor) and [GNSS module](https://raccoonlab.co/tproduct/390642159-261315362991-cyphal-and-dronecan-gnss-f9p-magnetomete) were used in this work:
 
