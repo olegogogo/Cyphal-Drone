@@ -78,6 +78,8 @@ Flight: [video](https://youtu.be/OQSTiOVPHFI) | [log](https://review.px4.io/plot
 
 Flight: [video](https://youtu.be/FOW7u1M5pps) | [log](https://review.px4.io/plot_app?log=a11b0625-4b24-4a09-a0f0-56e0d8007813)
 
+Flight: [video](https://youtu.be/u20vX0L85qA) | [log](https://review.px4.io/plot_app?log=3c7f1efb-98e8-44dc-8384-eff42a096174)
+
 ### Cyphal on Myxa (work in progress)
 Diagram:
 
