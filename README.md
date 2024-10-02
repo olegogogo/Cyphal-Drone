@@ -8,7 +8,7 @@ Replacing the control signal with a CAN bus will increase the stability of the s
  - [x] PWM flights. Autopilot cables go directly from the autopilot to the ESC.
  - [x] DroneCAN flights on [RaccoonLab PWM NODE v2](https://raccoonlab.co/tproduct/360882105-449815179261-cyphal-and-dronecan-pwm-node-v2)
  - [x] Cyphal flights on [RaccoonLab PWM NODE v2](https://raccoonlab.co/tproduct/360882105-449815179261-cyphal-and-dronecan-pwm-node-v2)
- - [ ] Cyphal flights on [Zubax Robotics Myxa](https://zubax.com/products/myxa)
+ - [x] Cyphal flights on [Zubax Robotics Myxa](https://zubax.com/products/myxa)
 
 ## Drone
 
@@ -85,4 +85,6 @@ Diagram:
 
 ![CANsheme](assets/CANMOTOR.png)
 
-**work in progress**
+Flight: [video](https://youtu.be/Gh2v9Kvuqrk) | [log](https://review.px4.io/plot_app?log=c7e64fa7-d42a-49f2-acbb-756e8d4110ad)
+
+Flight: [video](https://youtu.be/XdyPYLIfPi8) | [log](https://review.px4.io/plot_app?log=f6bebf5f-a85c-4d32-95ae-f74c99f22fad)
